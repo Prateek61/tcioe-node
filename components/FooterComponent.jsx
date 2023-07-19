@@ -223,7 +223,7 @@ const FooterComponent = () => {
               alt="icon"
               color="#ffffff"
             />
-            <ContactText>Thapathali, Nepal</ContactText>
+            <ContactText><a href="https://goo.gl/maps/gEUHf6kqwdPoWe488" target="_blank">Thapathali, Nepal</a></ContactText>
           </ContactItem>
         </Contact>
       </Container>
